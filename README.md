@@ -14,7 +14,7 @@
   > Moved to South Korea in 2023
 
 ## 🛠️ Language and tools:
-- Back end:
+- Backend:
 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="30" alt="java logo"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="30" alt="Spring logo"/>
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white" height="30" alt="Maven logo"/>
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" height="30" alt="Tomcat logo"/>
 
-- Front end:
+- Frontend:
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30" alt="HTML5 logo"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" alt="CSS3 logo"/>
