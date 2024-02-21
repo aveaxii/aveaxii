@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Kim Alex!</h2>
+<h2 align="center">Hello 👋! My name is Kim Alex!</h2>
 <p align="center"><b>Enthusiastic backend developer</b></p>
 <div align="center">
   <img align="center" height="250" src="https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif"/>
