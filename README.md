@@ -8,7 +8,7 @@
 - 19 years old
 - Currently engaging in backend development
 - Engaged in programming since 2020
-- Amateur experience in QA engineering, graphic and web design
+- In love with Java
 - Overseas Korean who lived in Russia
 
   > Moved to South Korea in 2023
