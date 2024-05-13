@@ -8,7 +8,7 @@
 - 19 years old
 - Currently engaging in backend development
 - Engaged in programming since 2020
-- In love with Java
+- Trying to learn all and everything...
 - Overseas Korean who lived in Russia
 
   > Moved to South Korea in 2023
