@@ -1,14 +1,14 @@
 <h2 align="center">Hello 👋! My name is Kim Alex!</h2>
-<p align="center"><b>Enthusiastic backend developer</b></p>
+<p align="center"><b>Enthusiastic fullstack developer</b></p>
 <div align="center">
   <img align="center" height="250" src="https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif"/>
 </div>
 
 ## 👨‍💻 About me:
 - 20 years old
-- Currently engaging in backend development
+- Currently engaging in fullstack development
 - Engaged in programming since 2020
-- Trying to learn all and everything...
+- In love with overengineering
 - Overseas Korean who lived in Russia
 
   > Moved to South Korea in 2023
