@@ -1,10 +1,10 @@
-<h2 align="center">Hello 👋! My name is Kim Alex!</h2>
-<p align="center"><b>Enthusiastic fullstack developer</b></p>
+<!-- <h2 align="center">Hello 👋! My name is Kim Alex!</h2>
+<p align="center"><b>Enthusiastic fullstack developer</b></p> -->
 <div align="center">
-  <img align="center" height="250" src="https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif"/>
+  <img align="center" src="https://github.com/aveaxii/aveaxii/blob/main/images/_%20(2).jpeg/>
 </div>
 
-## 👨‍💻 About me:
+<!-- ## 👨‍💻 About me:
 - 20 years old
 - A little bit of fullstack, a lot of backend...
 - Writing code since 2020
@@ -25,10 +25,10 @@
 
 - Other:
   
-  wip
+  wip -->
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aveaxii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -54,4 +54,4 @@
     <br/>
     <p><b>ID: aveaxii</b></p>
     <br/>
-  </div>
+  </div> -->
